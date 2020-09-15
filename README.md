@@ -1,4 +1,1 @@
-"# Piotr-Szyperek-kodilla-java" 
-"# Piotr-Szyperek-kodilla-java" 
-"# Piotr-Szyperek-kodilla-testing" 
-"# Piotr-Szyperek-kodilla-testing" 
+"Task 2 - Modulo 6.2 -> First unit test - Calculator!" 
