@@ -1,0 +1,2 @@
+com/kodilla/KodillaCourseApplicationTests.java
+ com.kodilla.KodillaCourseApplicationTests

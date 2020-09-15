@@ -1,0 +1,2 @@
+com/kodilla/testing/TestingMain.java
+ com.kodilla.testing.TestingMain
