@@ -1,6 +1,0 @@
-com/kodilla/testing/user/SimpleUser.java
- com.kodilla.testing.user.SimpleUser
-com/kodilla/testing/calculator/Calculator.java
- com.kodilla.testing.calculator.Calculator
-com/kodilla/testing/TestingMain.java
- com.kodilla.testing.TestingMain
